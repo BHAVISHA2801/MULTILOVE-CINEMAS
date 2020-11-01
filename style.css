@@ -1,0 +1,15 @@
+*{
+	margin: 0px;
+	padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto Slab', serif;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 90%;
+  }
+
+.Aboutusimg{
+	width: 100%;
+	height: 250%!important;
+}SSS
